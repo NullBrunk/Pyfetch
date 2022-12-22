@@ -1,6 +1,6 @@
 # Morpion
 A python3 Morpion game 
 
-[[Nullbrunk.png]] 
+<img src="NullBrunk.png" >
 
 # Installation :
