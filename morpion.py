@@ -136,7 +136,7 @@ def pvb() -> bool:
     a: int = 0
 
     for i in range(9):
-        print(colored(" PVB", "cyan", attrs=["bold"]))
+
         m.afficher()
         m.test()
 
@@ -171,7 +171,7 @@ def pvp() -> bool:
     a: int = 0
 
     for i in range(9):
-        print(colored(" PVP", "cyan", attrs=['bold']))
+        
         m.afficher()
         m.test()
 
