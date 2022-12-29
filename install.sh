@@ -16,7 +16,10 @@ if [ $1=="install" ]; then
 
     mv Morpion/morpion.py .
 
-    rm -r Morpion
+    rm -rf Morpion
+    rm install.sh
+    clear
+    python3 morpion.py
 
     echo "[+] Done"
 
