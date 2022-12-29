@@ -7,6 +7,9 @@ A python3 Morpion game
 ```bash
 wget https://raw.githubusercontent.com/NullBrunk/Morpion/main/install.sh
 chmod +x install.sh
-./install.sh 
+./install.sh install
+rm install.sh
+clear
+python3 morpion.py
 
 ```
