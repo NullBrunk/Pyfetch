@@ -10,7 +10,7 @@ A python3 Morpion game
 
 <img src="NullBrunk.png" >
 
-</div>
+
 
 # Installation :
 ```bash
@@ -19,3 +19,4 @@ chmod +x install.sh
 ./install.sh install
 
 ```
+</div>
