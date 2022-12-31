@@ -1,5 +1,11 @@
 # Pyfetch
 
+
+![GitHub top language](https://img.shields.io/github/languages/top/NullBrunk/Pyfetch?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NullBrunk/Pyfetch?style=for-the-badge)
+![repo size](https://img.shields.io/github/repo-size/NullBrunk/Pyfetch?style=for-the-badge)
+
+
 A simple Python3 command-line system information tool
 
 - <a href="https://github.com/NullBrunk/Pyfetch#display">How does it look like ?</a>
