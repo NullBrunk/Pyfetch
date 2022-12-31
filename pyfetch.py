@@ -1,33 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@NullBrunk
-NullBrunk /
-Pyfetch
-Public
-
-Code
-Issues 1
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-Pyfetch/pyfetch.py /
-@NullBrunk
-NullBrunk Update and rename exploit.sh to pyfetch.py
-Latest commit c094a95 Dec 31, 2022
-History
-1 contributor
-76 lines (52 sloc) 1.76 KB
 from termcolor import colored
 from platform import release
 from os import popen, environ
@@ -104,19 +74,3 @@ def main():
 
 if __name__ == "__main__":
 	main()
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
