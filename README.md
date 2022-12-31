@@ -1,23 +1,16 @@
+<div align="center">
+
 # Pyfetch
 
+<br>
 
 ![GitHub top language](https://img.shields.io/github/languages/top/NullBrunk/Pyfetch?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/NullBrunk/Pyfetch?style=for-the-badge)
 ![repo size](https://img.shields.io/github/repo-size/NullBrunk/Pyfetch?style=for-the-badge)
 
+![image](https://user-images.githubusercontent.com/106782577/210119170-7133e52a-8632-4d33-adb3-d2edee6ab88d.png)
 
-A simple Python3 command-line system information tool
-
-- <a href="https://github.com/NullBrunk/Pyfetch#display">How does it look like ?</a>
-- <a href="https://github.com/NullBrunk/Pyfetch#faster">Is it slower than neofetch ?</a>
-- <a href="https://github.com/NullBrunk/Pyfetch#installation">How to install it ?</a>
-
-## Display
-![image](https://user-images.githubusercontent.com/106782577/207334421-20c503ad-8079-4712-9311-47d3ff0e1d5f.png)
-
-## Faster
-No, actually for the same customization the python one is like 40% faster :    
-![image](https://user-images.githubusercontent.com/106782577/207340191-8d57ac7f-1810-437a-b899-d24f8629dc4e.png)
+</div>
 
 ## Installation
 
