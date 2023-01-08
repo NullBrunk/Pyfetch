@@ -23,5 +23,4 @@ Then clone the project and launch it:
 ```bash
 git clone https://github.com/NullBrunk/Pyfetch
 cd Pyfetch && python3 pyfetch.py
-
 ```
